@@ -1,15 +1,6 @@
-/** @type {import('next').NextConfig} */
+/** @type {import("next").NextConfig} */
 const nextConfig = {
-  async rewrites() {
-    return [
-      {
-        source: '/api/:path*',
-        destination: process.env.NODE_ENV === 'production' 
-          ? `${process.env.NEXT_PUBLIC_API_URL}/:path*`
-          : 'http://localhost:8000/:path*',
-      },
-    ]
-  },
+  // No rewrites needed for Vercel deployment
 }
 
 module.exports = nextConfig
