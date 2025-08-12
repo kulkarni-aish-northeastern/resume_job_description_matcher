@@ -1,1 +1,35 @@
 Software Engineer - Full Stack Developer
+
+Job Description:
+We are seeking a talented Full Stack Developer to join our dynamic team. The ideal candidate will have experience in both frontend and backend development, with a strong foundation in modern web technologies.
+
+Requirements:
+- 3+ years of experience in software development
+- Proficiency in JavaScript/TypeScript, Python, and SQL
+- Experience with React.js, Node.js, and FastAPI
+- Knowledge of cloud platforms (AWS, Azure, or GCP)
+- Experience with version control systems (Git)
+- Understanding of CI/CD pipelines
+- Strong problem-solving and analytical skills
+- Excellent communication and teamwork abilities
+
+Preferred Skills:
+- Experience with machine learning and AI
+- Knowledge of Docker and Kubernetes
+- Familiarity with agile development methodologies
+- Experience with database design and optimization
+- Understanding of microservices architecture
+
+Responsibilities:
+- Develop and maintain web applications
+- Collaborate with cross-functional teams
+- Write clean, maintainable, and efficient code
+- Participate in code reviews and technical discussions
+- Troubleshoot and debug application issues
+- Stay updated with emerging technologies
+
+Education:
+- Bachelor's degree in Computer Science or related field
+- Equivalent work experience will be considered
+
+This is a full-time position with competitive salary and benefits package.
